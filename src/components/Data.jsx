@@ -1,13 +1,13 @@
-import image1 from '../item-1.jpeg';
-import image2 from '../item-2.jpeg';
-import image3 from '../item-3.jpeg';
-import image4 from '../item-4.jpeg';
-import image5 from '../item-5.jpeg';
-import image6 from '../item-6.jpeg';
-import image7 from '../item-7.jpeg';
-import image8 from '../item-8.jpeg';
-import image9 from '../item-9.jpeg';
-import image10 from '../item-10.jpeg';
+import image1 from '../../item-1.jpeg';
+import image2 from '../../item-2.jpeg';
+import image3 from '../../item-3.jpeg';
+import image4 from '../../item-4.jpeg';
+import image5 from '../../item-5.jpeg';
+import image6 from '../../item-6.jpeg';
+import image7 from '../../item-7.jpeg';
+import image8 from '../../item-8.jpeg';
+import image9 from '../../item-9.jpeg';
+import image10 from '../../item-10.jpeg';
 
 const menu = [
   {
